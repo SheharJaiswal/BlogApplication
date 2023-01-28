@@ -1,0 +1,15 @@
+#addbtn{
+    text-align: center;
+    margin-left: 90%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+.postdtlLink{
+    text-align: center;
+    text-decoration: none;
+    color:black;
+}
+.tablehead{
+    text-align: center;
+    font-size: 30px;
+}

@@ -1,0 +1,31 @@
+.addPostForm{
+    border: 2px solid black;
+    padding: 10px;
+    margin:1% 25%;
+    width: 50%;
+    
+}
+.formadd{
+    padding: 5px;
+    
+}
+.formhead{
+    text-align: center;
+}
+.hrform{
+    border: 2px solid black;
+}
+.formLink{
+    text-decoration: none;
+    font-size: 23px;
+    color: red;
+    
+}
+.formLink:visited {
+    text-decoration: green;
+  }
+  .btn{
+      margin-left: 150px;
+      text-align: center;
+  }
+  

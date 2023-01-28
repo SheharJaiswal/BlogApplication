@@ -1,0 +1,39 @@
+.detailsform{
+    
+    
+    width: 90%;
+    margin:20px 10px 20px 50px;
+    padding:15px;
+    background-color:rgb(230, 255, 255);
+    
+}
+.containerdetail{
+    margin:60px 10px 60px 25px;
+    border: 6px solid black;
+    padding:10px 29px;
+    background-color:rgb(92, 138, 138);
+    
+}
+Form.Label{
+    font-weight: bold;
+}
+.likebtn{
+    position: relative;
+    background-color:rgb(179, 255, 255); 
+    border: 2px solid rgb(0, 51, 153);
+    border-radius: 4px;
+    font-size: 17px;
+    padding: 5px;
+    margin-left:70px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#editbtn{
+    margin-left: 600px;
+    margin-right: 0;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#deletebtn{
+    float: right;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
